@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45daafc9-4add-4f50-96c7-351ea80282c5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/js/JSHelper.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/pagemodels/BankAccounts.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/pagemodels/BankAccountsModel.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/pagemodels/Dashboard.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/pagemodels/DashboardModel.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/pagemodels/Login.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/pagemodels/LoginModel.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/pagemodels/PageObjectModel.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/selenium/Driver.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/selenium/WebDrivers.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/groovy/TestRunner.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -73,18 +64,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Dashboard.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/pagemodels/Dashboard.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#20#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DashboardModel.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/pagemodels/DashboardModel.groovy">
           <provider selected="true" editor-type-id="text-editor">
@@ -166,13 +145,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -587,6 +575,7 @@
         <option value="$PROJECT_DIR$/src/main/groovy/pagemodels/BankAccounts.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/pagemodels/Dashboard.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/TestRunner.groovy" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -609,6 +598,11 @@
             <path>
               <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -826,6 +820,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -877,16 +872,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/pagemodels/Dashboard.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="46" />
-          <folding>
-            <element signature="e#20#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/pagemodels/PageObjectModel.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1275,6 +1260,13 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
