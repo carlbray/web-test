@@ -5,7 +5,7 @@ You will need Git and Gradle installed
 
 1. Clone the repository
 ```
-clone https://github.com/carlbray/web-test.git
+git clone https://github.com/carlbray/web-test.git
 ```
 
 2. Download the chrome driver from http://chromedriver.chromium.org/downloads  
