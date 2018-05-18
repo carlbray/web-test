@@ -8,10 +8,10 @@ You will need Git and Gradle installed
 clone https://github.com/carlbray/web-test.git
 ```
 
-2. Download the chrome driver from http://chromedriver.chromium.org/downloads
-Unzip it
-Open the web-test/build.gradle file
-Set the driver property to the executable
+2. Download the chrome driver from http://chromedriver.chromium.org/downloads  
+Unzip it  
+Open the web-test/build.gradle file  
+Set the driver property to the executable  
 ```
     systemProperty 'webdriver.chrome.driver', 'D:\\selenium\\chromedriver.exe'
 ```
