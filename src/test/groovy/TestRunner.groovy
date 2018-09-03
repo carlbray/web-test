@@ -19,7 +19,7 @@ class TestRunner {
         // Shortcut to accounts to speed up tests
         driver.get("https://go.xero.com/Bank/BankAccounts.aspx")
 
-        new Login(driver).doLogin("carlbray+xero@gmail.com", "EMyawegOsInMoi3")
+        new Login(driver).doLogin("", "")
     }
 
     /**
